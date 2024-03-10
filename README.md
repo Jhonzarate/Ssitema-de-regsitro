@@ -3,3 +3,5 @@
 - Estado del proyecto en construccion.
 
 - sistema de registro actualizado
+
+- sistema de resgistro actualizado 2
